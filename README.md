@@ -1,2 +1,2 @@
 # IndependenceForBalochistan.github.io
-Repository for GEOGW12 Lab 7.
+A map of my favourite places in the world, most of which lie in Central/South Asia. 
